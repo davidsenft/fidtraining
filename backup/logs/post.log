@@ -1,0 +1,16 @@
+1374166310,Admin,Market=Initialize
+1374166312,Admin,Team%5b1%5d=GCS&Team%5b2%5d=GCS&Team%5b3%5d=GCS&Team%5b4%5d=GCS&Team%5b5%5d=GCS&Team%5b6%5d=GCS&Team%5b7%5d=GCS&Team%5b8%5d=GCS&Team%5b9%5d=GCS&Team%5b10%5d=GCS&Team%5b11%5d=GCS&Team%5b12%5d=GCS&Team%5b13%5d=GCS&Team%5b14%5d=GCS&Team%5b15%5d=GCS
+1374166313,Admin,Security%5b1%5d=1Bull&Security%5b2%5d=1Bear&Security%5b3%5d=2Bull&Security%5b4%5d=2Bear&Security%5b5%5d=3Bull&Security%5b6%5d=3Bear
+1374166317,Admin,Market=Open&Duration=900
+1374166365,Team,team=1&security=1&text=bid+5.12+for+10
+1374166367,Admin,OrderSerial%5b1%5d=1&OrderStatus%5b1%5d=Working
+1374166415,Team,team=2&security=1&text=offer+15at+6.50
+1374166418,Admin,OrderSerial%5b2%5d=2&OrderStatus%5b2%5d=Error&OrderErrorText%5b2%5d=Not%2520enough%2520information%2520for%2520offer.
+1374166448,Team,team=2&security=1&text=offer+15+at+6.50
+1374166452,Admin,OrderSerial%5b3%5d=3&OrderStatus%5b3%5d=Working
+1374166484,Team,team=2&security=1&text=sell+6
+1374166489,Admin,OrderSerial%5b4%5d=4&OrderStatus%5b4%5d=Working
+1374166490,Admin,OrderSerial%5b1%5d=1&OrderFillQuantity%5b1%5d=6&OrderFillPrice%5b1%5d=5.12
+1374166491,Admin,OrderSerial%5b4%5d=4&OrderFillQuantity%5b4%5d=-6&OrderFillPrice%5b4%5d=5.12
+1374166492,Admin,OrderSerial%5b4%5d=4&OrderStatus%5b4%5d=Ended
+1374166958,Admin,kill=1

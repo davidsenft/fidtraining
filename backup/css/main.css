@@ -1,0 +1,49 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+table td {padding:8px;border:1px solid black;}
+
+#teamorders {width:100%;}
+#teamorders td {border:0;}
+
+#teamposition {width:100%;font-size:30px;line-height:36px;}
+#teamposition td {border:0;border-bottom:1px solid #eee;}
+#teampositionheader {font-size:14px;height:36px;line-height:36px;border-bottom:1px solid #ccc;text-align:center;margin:0;}
+
+#mslogo {height:40px;width:179px;float:left;margin-right:6px;}
+
+#market-status {display:inline-block;float:left;}
+#market-status:hover {color:#999;}
+
+#killform {padding-top:20px;float:right;}
+#killswitch {font-size:1.6em;line-height:1.4em;}
+
+#cancelall, #killswitch {background-color: hsl(0, 100%, 36%) !important; background-repeat: repeat-x; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0a0a", endColorstr="#b70000"); background-image: -khtml-gradient(linear, left top, left bottom, from(#ff0a0a), to(#b70000)); background-image: -moz-linear-gradient(top, #ff0a0a, #b70000); background-image: -ms-linear-gradient(top, #ff0a0a, #b70000); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ff0a0a), color-stop(100%, #b70000)); background-image: -webkit-linear-gradient(top, #ff0a0a, #b70000); background-image: -o-linear-gradient(top, #ff0a0a, #b70000); background-image: linear-gradient(#ff0a0a, #b70000); border-color: #b70000 #b70000 hsl(0, 100%, 32%); color: #fff !important; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.26); -webkit-font-smoothing: antialiased;}
+#cancelall[disabled], #killswitch[disabled] {opacity:0.4;background-image:none!important;background-color:#ccc!important;border-color:#aaa;}
+
+#open-or-closed {text-transform:uppercase;}
+
+table#orders, table#iolog {width:100%;font-size:0.8em;}
+
+table#teamorders tr.sub-order td {padding:0 18px 4px;}
+
+.open, .sent, .pos {color:green;}
+.closed, .neg, .error {color:#d00;}
+
+.ended, .zero {color:#aaa;}
+.team {color:blue;font-weight:bold;}
+.last {font-weight:bold;}
+.newround {text-align:center;font-weight:bold;font-style:italic;}
+
+.navbar .nav {float:right;}
+
+
+
+
+
+
+
+
